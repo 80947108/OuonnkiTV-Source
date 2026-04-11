@@ -1,6 +1,6 @@
 # OuonnkiTV Source
 
-为 [OuonnkiTV](https://github.com/Ouonnki/OuonnkiTV) 提供视频源配置。
+将 MoonTV/LunaTV 视频源配置转换为 [OuonnkiTV](https://github.com/Ouonnki/OuonnkiTV) 视频源配置。
 
 ## 配置文件
 
