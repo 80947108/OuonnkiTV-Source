@@ -105,13 +105,6 @@
     "isEnabled": true
   },
   {
-    "id": "didizy-com",
-    "name": "滴滴资源",
-    "url": "https://api.ddapi.cc/api.php/provide/vod",
-    "detailUrl": "https://didizy.com",
-    "isEnabled": true
-  },
-  {
     "id": "heiliaozy-cc",
     "name": "黑料资源",
     "url": "https://www.heiliaozyapi.com/api.php/provide/vod",
@@ -179,13 +172,6 @@
     "name": "色猫资源",
     "url": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
     "detailUrl": "https://semaozy1.com",
-    "isEnabled": true
-  },
-  {
-    "id": "aosikazy-com",
-    "name": "奥斯卡",
-    "url": "https://aosikazy.com/api.php/provide/vod",
-    "detailUrl": "https://aosikazy.com",
     "isEnabled": true
   },
   {
