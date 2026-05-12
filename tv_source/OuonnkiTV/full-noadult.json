@@ -7,10 +7,10 @@
     "isEnabled": true
   },
   {
-    "id": "dbzy-tv",
-    "name": "豆瓣资源",
-    "url": "https://caiji.dbzy5.com/api.php/provide/vod",
-    "detailUrl": "https://dbzy.tv",
+    "id": "mtzy-me",
+    "name": "茅台资源",
+    "url": "https://caiji.maotaizy.cc/api.php/provide/vod",
+    "detailUrl": "https://mtzy.me",
     "isEnabled": true
   },
   {
