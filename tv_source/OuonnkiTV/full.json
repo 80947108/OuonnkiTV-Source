@@ -28,13 +28,6 @@
     "isEnabled": true
   },
   {
-    "id": "www-maoyanzy-com",
-    "name": "猫眼资源",
-    "url": "https://api.maoyanapi.top/api.php/provide/vod",
-    "detailUrl": "https://www.maoyanzy.com",
-    "isEnabled": true
-  },
-  {
     "id": "360zy-com",
     "name": "360 资源",
     "url": "https://360zyzz.com/api.php/provide/vod",
@@ -105,6 +98,20 @@
     "isEnabled": true
   },
   {
+    "id": "bdzy1-com",
+    "name": "百度云zy",
+    "url": "https://api.apibdzy.com/api.php/provide/vod",
+    "detailUrl": "https://bdzy1.com",
+    "isEnabled": true
+  },
+  {
+    "id": "1080zyk4-com",
+    "name": "优质资源",
+    "url": "https://api.yzzy-api.com/inc/apijson.php",
+    "detailUrl": "https://1080zyk4.com",
+    "isEnabled": true
+  },
+  {
     "id": "www-huyaapi-com",
     "name": "虎牙资源",
     "url": "https://www.huyaapi.com/api.php/provide/vod",
@@ -144,13 +151,6 @@
     "name": "老色逼",
     "url": "https://apilsbzy1.com/api.php/provide/vod",
     "detailUrl": "https://apilsbzy1.com",
-    "isEnabled": true
-  },
-  {
-    "id": "www-yytv4-cc",
-    "name": "优优资源",
-    "url": "https://www.yytv4.cc/api.php/provide/vod",
-    "detailUrl": "https://www.yytv4.cc",
     "isEnabled": true
   },
   {
