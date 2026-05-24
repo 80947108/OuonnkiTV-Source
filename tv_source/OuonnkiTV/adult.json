@@ -168,13 +168,6 @@
     "isEnabled": true
   },
   {
-    "id": "semaozy1-com",
-    "name": "色猫资源",
-    "url": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
-    "detailUrl": "https://semaozy1.com",
-    "isEnabled": true
-  },
-  {
     "id": "aosikazy-com",
     "name": "奥斯卡",
     "url": "https://aosikazy.com/api.php/provide/vod",
