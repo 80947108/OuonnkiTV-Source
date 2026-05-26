@@ -7,10 +7,10 @@
     "isEnabled": true
   },
   {
-    "id": "api-guangsuapi-com",
-    "name": "光速资源",
-    "url": "https://api.guangsuapi.com/api.php/provide/vod",
-    "detailUrl": "https://api.guangsuapi.com",
+    "id": "www-subozy-com",
+    "name": "速播资源",
+    "url": "https://subocaiji.com/api.php/provide/vod",
+    "detailUrl": "https://www.subozy.com",
     "isEnabled": true
   },
   {
@@ -21,10 +21,10 @@
     "isEnabled": true
   },
   {
-    "id": "www-subozy-com",
-    "name": "速播资源",
-    "url": "https://subocaiji.com/api.php/provide/vod",
-    "detailUrl": "https://www.subozy.com",
+    "id": "api-guangsuapi-com",
+    "name": "光速资源",
+    "url": "https://api.guangsuapi.com/api.php/provide/vod",
+    "detailUrl": "https://api.guangsuapi.com",
     "isEnabled": true
   },
   {
@@ -56,17 +56,17 @@
     "isEnabled": true
   },
   {
-    "id": "dbzy-tv",
-    "name": "豆瓣资源",
-    "url": "https://caiji.dbzy5.com/api.php/provide/vod",
-    "detailUrl": "https://dbzy.tv",
-    "isEnabled": true
-  },
-  {
     "id": "www-moduzy-net",
     "name": "魔都资源",
     "url": "https://www.mdzyapi.com/api.php/provide/vod",
     "detailUrl": "https://www.moduzy.net",
+    "isEnabled": true
+  },
+  {
+    "id": "dbzy-tv",
+    "name": "豆瓣资源",
+    "url": "https://caiji.dbzy5.com/api.php/provide/vod",
+    "detailUrl": "https://dbzy.tv",
     "isEnabled": true
   },
   {
