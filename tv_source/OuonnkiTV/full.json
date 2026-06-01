@@ -56,6 +56,13 @@
     "isEnabled": true
   },
   {
+    "id": "api-guangsuapi-com",
+    "name": "光速资源",
+    "url": "https://api.guangsuapi.com/api.php/provide/vod",
+    "detailUrl": "https://api.guangsuapi.com",
+    "isEnabled": true
+  },
+  {
     "id": "www-hongniuzy-com",
     "name": "红牛资源",
     "url": "https://www.hongniuzy2.com/api.php/provide/vod",
@@ -175,24 +182,10 @@
     "isEnabled": true
   },
   {
-    "id": "apilj-com",
-    "name": "辣椒资源",
-    "url": "https://apilj.com/api.php/provide/vod",
-    "detailUrl": "https://apilj.com",
-    "isEnabled": true
-  },
-  {
     "id": "shayuapi-com",
     "name": "鲨鱼资源",
     "url": "https://shayuapi.com/api.php/provide/vod",
     "detailUrl": "https://shayuapi.com",
-    "isEnabled": true
-  },
-  {
-    "id": "didizy-com",
-    "name": "滴滴资源",
-    "url": "https://api.ddapi.cc/api.php/provide/vod",
-    "detailUrl": "https://didizy.com",
     "isEnabled": true
   },
   {
@@ -207,6 +200,13 @@
     "name": "百万资源",
     "url": "https://api.bwzyz.com/api.php/provide/vod",
     "detailUrl": "https://api.bwzym3u8.com",
+    "isEnabled": true
+  },
+  {
+    "id": "thzy8-me",
+    "name": "桃花资源",
+    "url": "https://thzy1.me/api.php/provide/vod",
+    "detailUrl": "https://thzy8.me",
     "isEnabled": true
   },
   {
@@ -249,13 +249,6 @@
     "name": "杏吧资源",
     "url": "https://xingba222.com/api.php/provide/vod",
     "detailUrl": "https://xingba111.com",
-    "isEnabled": true
-  },
-  {
-    "id": "aosikazy-com",
-    "name": "奥斯卡",
-    "url": "https://aosikazy.com/api.php/provide/vod",
-    "detailUrl": "https://aosikazy.com",
     "isEnabled": true
   }
 ]
