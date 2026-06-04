@@ -7,20 +7,6 @@
     "isEnabled": true
   },
   {
-    "id": "www-subozy-com",
-    "name": "速播资源",
-    "url": "https://subocaiji.com/api.php/provide/vod",
-    "detailUrl": "https://www.subozy.com",
-    "isEnabled": true
-  },
-  {
-    "id": "api-guangsuapi-com",
-    "name": "光速资源",
-    "url": "https://api.guangsuapi.com/api.php/provide/vod",
-    "detailUrl": "https://api.guangsuapi.com",
-    "isEnabled": true
-  },
-  {
     "id": "www-haohuazy-com",
     "name": "豪华资源",
     "url": "https://hhzyapi.com/api.php/provide/vod",
@@ -28,17 +14,10 @@
     "isEnabled": true
   },
   {
-    "id": "www-huyaapi-com",
-    "name": "虎牙资源",
-    "url": "https://www.huyaapi.com/api.php/provide/vod",
-    "detailUrl": "https://www.huyaapi.com",
-    "isEnabled": true
-  },
-  {
-    "id": "jinyingzy-com",
-    "name": "金鹰点播",
-    "url": "https://jinyingzy.com/api.php/provide/vod",
-    "detailUrl": "https://jinyingzy.com",
+    "id": "www-subozy-com",
+    "name": "速播资源",
+    "url": "https://subocaiji.com/api.php/provide/vod",
+    "detailUrl": "https://www.subozy.com",
     "isEnabled": true
   },
   {
@@ -49,10 +28,17 @@
     "isEnabled": true
   },
   {
-    "id": "360zy-com",
-    "name": "360 资源",
-    "url": "https://360zyzz.com/api.php/provide/vod",
-    "detailUrl": "https://360zy.com",
+    "id": "api-guangsuapi-com",
+    "name": "光速资源",
+    "url": "https://api.guangsuapi.com/api.php/provide/vod",
+    "detailUrl": "https://api.guangsuapi.com",
+    "isEnabled": true
+  },
+  {
+    "id": "www-huyaapi-com",
+    "name": "虎牙资源",
+    "url": "https://www.huyaapi.com/api.php/provide/vod",
+    "detailUrl": "https://www.huyaapi.com",
     "isEnabled": true
   },
   {
@@ -63,6 +49,20 @@
     "isEnabled": true
   },
   {
+    "id": "www-maoyanzy-com",
+    "name": "猫眼资源",
+    "url": "https://api.maoyanapi.top/api.php/provide/vod",
+    "detailUrl": "https://www.maoyanzy.com",
+    "isEnabled": true
+  },
+  {
+    "id": "360zy-com",
+    "name": "360 资源",
+    "url": "https://360zyzz.com/api.php/provide/vod",
+    "detailUrl": "https://360zy.com",
+    "isEnabled": true
+  },
+  {
     "id": "www-moduzy-net",
     "name": "魔都资源",
     "url": "https://www.mdzyapi.com/api.php/provide/vod",
@@ -70,17 +70,10 @@
     "isEnabled": true
   },
   {
-    "id": "1080zyk4-com",
-    "name": "优质资源",
-    "url": "https://api.yzzy-api.com/inc/apijson.php",
-    "detailUrl": "https://1080zyk4.com",
-    "isEnabled": true
-  },
-  {
-    "id": "www-maoyanzy-com",
-    "name": "猫眼资源",
-    "url": "https://api.maoyanapi.top/api.php/provide/vod",
-    "detailUrl": "https://www.maoyanzy.com",
+    "id": "dbzy-tv",
+    "name": "豆瓣资源",
+    "url": "https://caiji.dbzy5.com/api.php/provide/vod",
+    "detailUrl": "https://dbzy.tv",
     "isEnabled": true
   },
   {
