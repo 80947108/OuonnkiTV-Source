@@ -14,13 +14,6 @@
     "isEnabled": true
   },
   {
-    "id": "mtzy-me",
-    "name": "茅台资源",
-    "url": "https://caiji.maotaizy.cc/api.php/provide/vod",
-    "detailUrl": "https://mtzy.me",
-    "isEnabled": true
-  },
-  {
     "id": "ikunzy-com",
     "name": "iKun资源",
     "url": "https://ikunzyapi.com/api.php/provide/vod",
@@ -182,6 +175,13 @@
     "isEnabled": true
   },
   {
+    "id": "apilj-com",
+    "name": "辣椒资源",
+    "url": "https://apilj.com/api.php/provide/vod",
+    "detailUrl": "https://apilj.com",
+    "isEnabled": true
+  },
+  {
     "id": "shayuapi-com",
     "name": "鲨鱼资源",
     "url": "https://shayuapi.com/api.php/provide/vod",
@@ -214,13 +214,6 @@
     "name": "精品资源",
     "url": "https://www.jingpinx.com/api.php/provide/vod",
     "detailUrl": "https://www.jingpinx.com",
-    "isEnabled": true
-  },
-  {
-    "id": "souavzyw-com",
-    "name": "souavZY",
-    "url": "https://api.souavzyw.net/api.php/provide/vod",
-    "detailUrl": "https://api.souavzyw.net",
     "isEnabled": true
   },
   {
