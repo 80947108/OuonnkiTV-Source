@@ -21,13 +21,6 @@
     "isEnabled": true
   },
   {
-    "id": "cj-lzcaiji-com",
-    "name": "量子资源",
-    "url": "https://cj.lzcaiji.com/api.php/provide/vod",
-    "detailUrl": "https://cj.lzcaiji.com",
-    "isEnabled": true
-  },
-  {
     "id": "jszyapi-com",
     "name": "极速资源",
     "url": "https://jszyapi.com/api.php/provide/vod",
@@ -81,13 +74,6 @@
     "name": "豪华资源",
     "url": "https://hhzyapi.com/api.php/provide/vod",
     "detailUrl": "https://www.haohuazy.com",
-    "isEnabled": true
-  },
-  {
-    "id": "lzizy-net",
-    "name": "量子影视",
-    "url": "https://cj.lziapi.com/api.php/provide/vod",
-    "detailUrl": "https://lzizy.net",
     "isEnabled": true
   },
   {
